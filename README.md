@@ -15,3 +15,5 @@ Jogo clássico recriado utilizando JavaScript
 <li>O objetivo é chegar ao outro lado da rodovia, se chegar, ganhará 1 ponto;</li>
 <li>Se ao cruzar a rodovia, colidir com um carro, voltará ao início e perderá 1 ponto.</li>
  </ul>
+ 
+ <p>Copie o link e cole no seu navegador para jogar: https://lucas-dias-aragao.github.io/jogo-Freeway/ </p>
